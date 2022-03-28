@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584886949919",
+    "project_id": "shop-fi-dark",
+    "storage_bucket": "shop-fi-dark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584886949919:android:2e20323f1d822bdff19d2a",
+        "android_client_info": {
+          "package_name": "com.example.shopingdark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584886949919-oqfcjer5ome1gn3e0h9hnkglvt5ladgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIR6mscMTMlsxHQ_S6bp86zhwYrHuFiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584886949919-oqfcjer5ome1gn3e0h9hnkglvt5ladgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
